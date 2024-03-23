@@ -147,7 +147,7 @@
     <string name="settings_general_users_prefs_user_used_by_one">Utilizzato dal topic %1$s</string>
     <string name="settings_general_users_prefs_user_add_title">Aggiungi nuovo utente</string>
     <string name="settings_general_users_prefs_user_add_summary">Crea un nuovo utente per un nuovo server</string>
-    <string name="settings_general_dark_mode_title">Modalità dark</string>
+    <string name="settings_general_dark_mode_title">Modalità scura</string>
     <string name="settings_general_dark_mode_summary_system">Utilizzando il default di sistema</string>
     <string name="settings_general_dark_mode_summary_light">Modalità light ON</string>
     <string name="settings_general_dark_mode_entry_system">Usa il default di sistema</string>
@@ -166,8 +166,8 @@
 \nLe password sono state ripulite, ma non sono elencate qui.</string>
     <string name="settings_advanced_export_logs_scrub_dialog_button_ok">Ok</string>
     <string name="settings_advanced_clear_logs_title">Cancella i log</string>
-    <string name="settings_advanced_connection_protocol_summary_jsonhttp">Usa stream JSON over HTTP per collegarti al server. Questo metodo è collaudato, ma può consumare più batteria.</string>
-    <string name="settings_advanced_connection_protocol_entry_jsonhttp">Stream JSON over HTTP</string>
+    <string name="settings_advanced_connection_protocol_summary_jsonhttp">Usa stream JSON su HTTP per collegarti al server. Questo metodo è collaudato, ma può consumare più batteria.</string>
+    <string name="settings_advanced_connection_protocol_entry_jsonhttp">Stream JSON su HTTP</string>
     <string name="user_dialog_description_add">Puoi aggiungere un utente qui. Tutti i topic per il dato server utilizzeranno questo utente.</string>
     <string name="user_dialog_description_edit">Puoi modificare username/password per l\'utente selezionato, oppure eliminarlo.</string>
     <string name="user_dialog_base_url_hint">URL del servizio</string>
